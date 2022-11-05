@@ -1,0 +1,34 @@
+body {
+  color: #AC4400;
+  background: #F0E0D8;
+}
+
+h1 {
+  background: #fff;
+  color: #F06100;
+}
+
+img {
+  border: #fff 6px solid;
+}
+
+.rotate-right {
+  transform: rotate(3deg);
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.rotate-left {
+  transform: rotate(-3deg);
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.clickme {
+  margin-bottom: 5px;
+}
+
+footer {
+  background: #fff;
+  color: #F06100;
+}
